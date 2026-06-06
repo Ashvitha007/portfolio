@@ -6,8 +6,17 @@ This portfolio showcases my skills, projects, certifications, and journey as a C
 
 ## 🌐 Live Portfolio
 
-🔗 **Visit Here:**  
+🔗 **Visit Here:**
 https://ashvitha007.github.io/portfolio/
+
+## 🎥 Portfolio Demo Video
+
+Watch a complete walkthrough of my portfolio website showcasing the user interface, projects, skills, and responsive design.
+
+▶️ **Demo Video:**
+PASTE_YOUR_GITHUB_VIDEO_LINK_HERE
+
+---
 
 ## 👩‍💻 About Me
 
@@ -15,34 +24,38 @@ I am a passionate Computer Science student with a strong interest in web develop
 
 ## 🛠️ Technical Skills
 
-- 💻 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🐍 Python
-- 🌐 Django
-- 🗄️ SQLite
-- 🔧 Git & GitHub
-- 📊 Database Management
+* 💻 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🐍 Python
+* 🌐 Django
+* 🗄️ SQLite
+* 🔧 Git & GitHub
+* 📊 Database Management
 
 ## 🚀 Featured Projects
 
 ### 🧮 Calculator Application
+
 A responsive calculator built using HTML, CSS, and JavaScript with a clean and interactive user interface.
 
 ### 📋 To-Do List Application
+
 A task management web application developed using Python, Django, HTML, CSS, and SQLite. Users can add, update, and manage daily tasks efficiently.
 
 ### 🤖 Eye-Controlled Robotic Trolley
+
 An innovative project that uses eye-tracking sensors, Arduino microcontroller, OpenCV, and Zigbee communication to control a robotic trolley through eye gestures.
 
 ### 💡 JavaScript Calculator
+
 A modern calculator application featuring responsive design and smooth user interaction.
 
 ## 📜 Certifications & Learning
 
-- 🎓 Internship Trainee at Zidio Development
-- 📚 Continuous learner in Full Stack Development
-- 🏆 Actively working on real-world projects and improving technical skills
+* 🎓 Internship Trainee at Zidio Development
+* 📚 Continuous learner in Full Stack Development
+* 🏆 Actively working on real-world projects and improving technical skills
 
 ## 🎯 Career Objective
 
@@ -50,7 +63,7 @@ To build a successful career in software development by continuously learning ne
 
 ## 📫 Contact
 
-📧 Email: your-ashvitha0123@gmail.com 
+📧 Email: [ashvitha0123@gmail.com](mailto:ashvitha0123@gmail.com)
 💼 GitHub: https://github.com/Ashvitha007
 
 ---

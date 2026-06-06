@@ -9,13 +9,6 @@ This portfolio showcases my skills, projects, certifications, and journey as a C
 🔗 **Visit Here:**
 https://ashvitha007.github.io/portfolio/
 
-## 🎥 Portfolio Demo Video
-
-Watch a complete walkthrough of my portfolio website showcasing the user interface, projects, skills, and responsive design.
-
-▶️ **Demo Video:**
-PASTE_YOUR_GITHUB_VIDEO_LINK_HERE
-
 ---
 
 ## 👩‍💻 About Me
